@@ -12,10 +12,8 @@ The ALU supports a wide range of **arithmetic and logical operations**, making i
 - Completed **Place & Route (P&R)** with optimized placement and clock tree synthesis.  
 - Generated final **GDSII layout**, which is DRC-clean and LVS-verified.  
 
-### Tools & Technologies Used
-- **RTL Design & Simulation:** Verilog, ModelSim / Icarus Verilog  
-- **Synthesis & STA:** Synopsys Design Compiler / Yosys, OpenSTA  
-- **Physical Design:** Cadence Innovus / OpenROAD  
-- **Verification:** DRC, LVS checks with Magic/Calibre  
+### Tools & Technologies Used  
+- **Synthesis:** Cadence Genus  
+- **Physical Design:** Cadence Innovus   
+- **Verification:** DRC, LVS checks  
 
-This project reflects the **end-to-end VLSI design cycle**, making it a strong reference for learning and for showcasing skills relevant to ASIC design roles.
