@@ -1,0 +1,3 @@
+Waveform showing arithmetic and logical operations in the 64-bit ALU.
+
+![ALU Simulation Waveform](downloads/waveform-xcilium.jpg)
